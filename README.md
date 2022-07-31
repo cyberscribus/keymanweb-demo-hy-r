@@ -1,4 +1,4 @@
-## KeymanWeb հայկական մնեմոնիկ ստեղնաշարի համար
+## KeymanWeb «Armenian Mnemonic R» ստեղնաշարի համար
 
 &nbsp;&nbsp;&nbsp;&nbsp;Սա վեբ-էջի մի նմուշ է «Armenian Mnemonic R» ստեղնաշարը ցուցադրելու համար: Այս վեբ էջը հրապարակված է հետևյալ կայքում. [https://dotland.github.io/keymanweb-demo-hy-r/](https://dotland.github.io/keymanweb-demo-hy-r/):
 
