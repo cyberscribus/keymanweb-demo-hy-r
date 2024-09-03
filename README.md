@@ -26,7 +26,7 @@ keyman.addKeyboards({
             source: ['./font/Sylfaen.ttf']
         }
     }, 
-    filename: 'https://github.com/dotland/mnemonic-kb-hy-r/releases/latest/download/hymr.js'
+    filename: 'https://github.com/dotland/mnemonic-kb-hy-r/releases/latest/download/armenian_mnemonic_r.js'
 });
 ```
 
