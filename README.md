@@ -30,9 +30,6 @@ keyman.addKeyboards({
 });
 ```
 
-Ստեղնաշարի .js ֆայլը կարող է ստեղծվել [Keyman Developer](https://keyman.com/developer/)-ի միջոցով:
-
-
 ### Հղումներ
 
 <a id="1">&nbsp;&nbsp;1.&nbsp;</a>
